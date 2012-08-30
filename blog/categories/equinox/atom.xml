@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: equinox | My Octopress Blog]]></title>
+  <title><![CDATA[Category: equinox | Metalinguistic]]></title>
   <link href="http://lfborjas.github.com/metaliguistic/blog/categories/equinox/atom.xml" rel="self"/>
   <link href="http://lfborjas.github.com/metaliguistic/"/>
-  <updated>2012-08-30T03:29:39-04:00</updated>
+  <updated>2012-08-30T03:31:18-04:00</updated>
   <id>http://lfborjas.github.com/metaliguistic/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Glazed Cinnamon Bun]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
