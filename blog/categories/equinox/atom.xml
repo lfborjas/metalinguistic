@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://lfborjas.github.com/metaliguistic/atom.xml" rel="self"/>
+  <title><![CDATA[Category: equinox | My Octopress Blog]]></title>
+  <link href="http://lfborjas.github.com/metaliguistic/blog/categories/equinox/atom.xml" rel="self"/>
   <link href="http://lfborjas.github.com/metaliguistic/"/>
   <updated>2012-08-30T03:29:39-04:00</updated>
   <id>http://lfborjas.github.com/metaliguistic/</id>
